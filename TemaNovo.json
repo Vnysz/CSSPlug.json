@@ -27,7 +27,7 @@
         "user": null
     },
     "images": {
-        "background": https://rcs.radiant.dj/backgrounds,
+        "background": "https://rcs.radiant.dj/backgrounds",
         "playback": null,
         "admin": null,
         "ambassador": null,
