@@ -556,3 +556,18 @@
 #app{background:url(https://imgur.com/VQg0KHX.jpg)center/cover no-repeat}
 #app .community .left-side-wrapper{background:0 0}
 #dj-booth{background:url(https://fimplug.net/theme/images/booth.png)20px 125px no-repeat;background-size:300px}
+#app .community .community__right-bar #header-panel-bar,
+#app .community .community__top{background:linear-gradient(to bottom,#000 0,rgba(0, 0, 0,0.2) 0,#000 200%)}
+#app .community .community__top .community__meta .community__name{color:#00c6ff}
+#app-menu.in-room{background:linear-gradient(to bottom,#000000 0,rgba(255, 0, 242,0.8) 0,#000 200%)no-repeat;background-size:200% 54px}
+
+#app .community .community__bottom,
+#app .community .community__bottom .bottom__playback-controls,
+#app .community .community__bottom .bottom__playback-meta{background:linear-gradient(to bottom,#000000 0,rgba(0, 0, 0,0.2) 0,#000000 200%)}
+#app .community .community__bottom .community__playlist--desktop{background:linear-gradient(to bottom,rgba(0, 0, 0,0.2) 0,#000000 200%)}
+#app .community .community__bottom .community__playlist--desktop>i{color:#00c6ff}
+#app .logo-wrapper .plugdj-logo {
+    width: 30px;
+    height: 30px;
+    background: url("https://i.imgur.com/tsAMi1G.png?1") no-repeat 0 0;
+}
