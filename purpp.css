@@ -502,10 +502,10 @@
 }
 		/*# Burkyst #*/
 #chat [data-cid^='20574971-'] .un:before {
-    content: '[LINDO]';
+    content: 'Support';
     top: 0px;
     Left: 0px;
-	color: #e2da24!important;
+	color: #1E90FF!important;
     padding-left: 2px;
     padding-right: 4px;
     position: relative;
