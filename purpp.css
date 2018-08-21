@@ -538,6 +538,17 @@
 	background-image:   url("https://image.prntscr.com/image/VQWEV9GfT4K1mpg2ykFWvg.gif");
 }
 
+/* Burkyst */ 
+[data-cid^="20574971-"] .badge-box .bdg,
+#user-rollover.id-20574971 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://imgur.com/5qSMA7m.jpg");
+}
+
+
 @keyframes rainbow {
 	0% {color: #ff0000;}
 	10% {color: #ff8000;}
